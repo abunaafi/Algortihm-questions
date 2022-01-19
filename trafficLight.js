@@ -9,4 +9,4 @@ function updateLight(current) {
     }
     else if (current ==='red'){
       return 'green';
-    } 
+    }}
