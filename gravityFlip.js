@@ -12,4 +12,4 @@ const flip=(d, a)=>{
       }
     })
     return sortedArray
-   }
+   } 
